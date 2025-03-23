@@ -9,6 +9,7 @@ public class MasterMul {
         System.out.println("this is from mastermul by master at 2:15");
 
         System.out.println("this is from mastermul by master at 2:15");
+        System.out.println("method changes are added in mansa by 2:43");
 
     }
 

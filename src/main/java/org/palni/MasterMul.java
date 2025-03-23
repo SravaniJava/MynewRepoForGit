@@ -9,12 +9,20 @@ public class MasterMul {
         System.out.println("this is from mastermul by master at 2:15");
 
         System.out.println("this is from mastermul by master at 2:15");
+
         System.out.println("mansa method changess by mansa at 2:46");
+        System.out.println("method changes are added in mansa by 2:43");
 
     }
 
     public static void manasadiv(){
         System.out.println("this is the div method added in master mul by manasa");
+    }
+
+
+
+    public static void masterMethod(){
+        System.out.println("from master mul by master at 2:245");
     }
 
 

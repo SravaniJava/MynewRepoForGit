@@ -4,6 +4,7 @@ public class MasterMul {
 
     public static void manasa(){
         System.out.println("this is from manasa method by manasa in Mastermul at 1:56");
+        System.out.println("this is added by  manasa  in manasa method at 2:19");
     }
     public static void main(String[] args) {
         System.out.println("this is master mul");

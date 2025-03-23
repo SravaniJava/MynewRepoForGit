@@ -18,13 +18,18 @@ public class MasterMul {
     public static void manasadiv(){
         System.out.println("this is the div method added in master mul by manasa");
         System.out.println("checking by master at 3:45");
+
+        System.out.println("changeds by mansa branch");
+
         System.out.println("changes at 3:50");
+
     }
 
 
 
     public static void masterMethod(){
         System.out.println("from master mul by master at 2:245");
+        System.out.println("master method chnges by mansa");
         System.out.println("master method chnges by master");
     }
 

@@ -24,6 +24,7 @@ public class MasterMul {
     public static void masterMethod(){
         System.out.println("from master mul by master at 2:245");
         System.out.println("master method chnges by mansa");
+        System.out.println("master method chnges by master");
     }
 
 

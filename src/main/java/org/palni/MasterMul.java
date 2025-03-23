@@ -18,6 +18,7 @@ public class MasterMul {
     public static void manasadiv(){
         System.out.println("this is the div method added in master mul by manasa");
         System.out.println("checking by master at 3:45");
+        System.out.println("changes at 3:50");
     }
 
 
